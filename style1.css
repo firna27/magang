@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+h1 {
+    font-size: 40px;
+    color: green;
+    text-align: center;
+}
+p {
+    text-align: justify;
+    font-family: arial;
+    color: blue;
+}

@@ -1,0 +1,63 @@
+.container {
+    width: 100%;
+}
+.atas {
+    background-color: gray;
+    height: 100px;
+}
+.atas h3 {
+    color: white;
+}
+.kiri {
+    height: 800px;
+    width: 20%;
+    background-color: rgb(226, 221, 221);
+    float: left;
+}
+.kiri button {
+background-color: slategrey;
+height: 50px;
+color: white;
+padding: 10px 24px;
+cursor: pointer; 
+width: 100%; 
+display: block;
+}
+
+.kanan {
+    height: 800px;
+    width: 80%;
+    background-color: rgb(175, 201, 175);
+    float: right;
+}
+.kanan table {
+    margin: auto;
+    width: 550px;
+    background-color: whitesmoke;
+}
+input[type=text], select {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+input[type=submit] {
+    width: 75%;
+    background-color: #034383;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+textarea {
+    width: 75%;
+}
+input[type=submit]:hover {
+    background-color: #8388ce;
+  }

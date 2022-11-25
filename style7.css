@@ -1,0 +1,51 @@
+.container {
+    width: 100%;
+    margin: auto;
+    background-color: whitesmoke;
+    border: solid turquoise;
+}
+.header {
+    background-color: blue;
+    height: 200px;
+}
+.menu {
+    height: 40px;
+    background-color: red;
+}
+.content {
+    height: 600px;
+}
+.main {
+    height: 600px;
+    width: 70%;
+    box-sizing: border-box;
+    float: left;
+}
+.main h2 {
+    font-weight: bold;
+    font-size: 28px;
+}
+.main p {
+    text-indent: 40px;
+    margin-bottom: 20px;
+}
+/* sidebar */
+.sidebar {
+    height: 560px;
+    width: 300;
+    float: right;
+    padding: 20px;
+    background-color: gray;
+    }
+.footer {
+    background-color: black;
+    padding: 10px;
+    height: 60px;
+}
+.footer .copy {
+    color: white;
+    text-align: center;
+}
+
+
+

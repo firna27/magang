@@ -1,0 +1,21 @@
+.container {
+    width: 950px;
+    margin: auto;
+}
+.menu {
+    background-color: gray;
+    height: 50px;
+}
+.menu button {
+    padding: 10px 10px;
+}
+.header {
+    height: 300px;   
+}
+.header img {
+    width: 950px;
+}
+.content {
+    height: 500px;
+    background-color: red;
+}

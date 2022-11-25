@@ -1,0 +1,70 @@
+.container {
+    width: 100%;
+}
+.header {
+    width: 100%;
+    background-color: rgb(23, 105, 36);
+}
+.navbar-brand {
+    color: wheat;
+}
+.kiri {
+    width: 30%;
+    height: 900px;
+    background-color: black;
+    float: left;
+}
+.kanan {
+    width: 70%;
+    height: 900px;
+    background-color: lightslategray;
+    float: right;
+}
+.kanan table {
+    margin: auto;
+    width: 550px;
+    background-color: whitesmoke;
+}
+.kanan input {
+    height: 29px;
+    width: 245px;
+}
+.kanan select {
+    height: 29px;
+    width: 245px;
+}
+.kanan textarea {
+    width: 245px;
+    height: 70px;
+}
+.icon{
+    margin-left: -22px;  
+}
+.icon1{
+    margin-left: -20px;
+}
+.icon2{
+    margin-left: -20px;
+}
+.icon3{
+    margin-left: -20px;
+}
+.icon4{
+    margin-left: -20px;
+}
+
+input[type=submit] {
+    width: 250px;
+    height: 39px;
+    background-color: rgb(43, 121, 43);
+    color: linen;
+    text-align: center;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #24c93f;
+  }
+
